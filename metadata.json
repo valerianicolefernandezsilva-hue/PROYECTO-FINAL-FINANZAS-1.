@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Herramienta de Visualización Financiera",
+  "description": "Plataforma de análisis de riesgo y rentabilidad, optimización de portafolios de Markowitz y modelos de valoración de activos CAPM con datos históricos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
